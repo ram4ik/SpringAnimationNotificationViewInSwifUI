@@ -13,6 +13,7 @@
 		955177A72338B8120066C2FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 955177A62338B8120066C2FB /* Assets.xcassets */; };
 		955177AA2338B8120066C2FB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 955177A92338B8120066C2FB /* Preview Assets.xcassets */; };
 		955177AD2338B8120066C2FB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 955177AB2338B8120066C2FB /* LaunchScreen.storyboard */; };
+		955177B72338B8AC0066C2FB /* NotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955177B62338B8AC0066C2FB /* NotificationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		955177A92338B8120066C2FB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		955177AC2338B8120066C2FB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		955177AE2338B8120066C2FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		955177B62338B8AC0066C2FB /* NotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				955177A02338B8110066C2FB /* AppDelegate.swift */,
 				955177A22338B8110066C2FB /* SceneDelegate.swift */,
 				955177A42338B8110066C2FB /* ContentView.swift */,
+				955177B62338B8AC0066C2FB /* NotificationView.swift */,
 				955177A62338B8120066C2FB /* Assets.xcassets */,
 				955177AB2338B8120066C2FB /* LaunchScreen.storyboard */,
 				955177AE2338B8120066C2FB /* Info.plist */,
@@ -149,6 +152,7 @@
 				955177A12338B8110066C2FB /* AppDelegate.swift in Sources */,
 				955177A32338B8110066C2FB /* SceneDelegate.swift in Sources */,
 				955177A52338B8110066C2FB /* ContentView.swift in Sources */,
+				955177B72338B8AC0066C2FB /* NotificationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
